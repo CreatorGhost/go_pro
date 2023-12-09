@@ -37,9 +37,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourUsername](https://yourrepositoryurl.com/YourUsername)
-
-See also the list of [contributors](https://yourrepositoryurl.com/go_project/contributors) who participated in this project.
+* **Aditya Pratap Singh** - *Initial work* - [CreatorGhost](https://www.linkedin.com/in/aditya-p-s/)
 
 ## License
 
